@@ -1,3 +1,5 @@
-public static void main(string[] args){
+public class main{
+    public static void main (string[] args){
         System.out.println("冯先生");
-        }
+    }
+}
